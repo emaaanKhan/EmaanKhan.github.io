@@ -5,9 +5,8 @@ Aspiring Data Analyst | Computer Science Student | Passionate about using data t
 ## 💼 Projects
 - **Currency Converter (C# + API)**
 - **Inventory Management System (C# + SQL)**
-- **Double Pendulum Simulator (Python)**
-- **Quiz Game (Python)**
-- 
+- **Double Pendulum Simulator (Python)** 
+  
 ## 📊 Skills
 - Python, Pandas, Matplotlib, NumPy
 - SQL, Excel, Power BI (learning)
